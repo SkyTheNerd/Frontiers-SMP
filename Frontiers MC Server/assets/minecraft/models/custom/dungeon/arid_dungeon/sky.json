@@ -1,0 +1,1 @@
+{"credit":"Made with Blockbench","textures":{"0":"block/light_blue_concrete","particle":"block/light_blue_concrete"},"elements":[{"from":[0,0,0],"to":[16,0,16],"faces":{"down":{"uv":[0,0,16,16],"texture":"#0"}}}]}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_pickaxe"
+  },
+	"overrides": [
+
+{ "predicate": { "custom_model_data": 70}, "model": "custom:clown/clown_pickaxe" },
+{ "predicate": { "custom_model_data": 10001}, "model": "custom:pride/pride_pickaxe" },
+{ "predicate": { "custom_model_data": 10002}, "model": "custom:ender/ender_pickaxe" }
+	]
+}
+
