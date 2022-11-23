@@ -1,1 +1,0 @@
-{"credit":"Made with Blockbench","texture_size":[32,32],"textures":{"0":"custom/particles/spore/spore_0","particle":"custom/particles/spore/spore_0"},"elements":[{"from":[-8,0,8],"to":[24,32,8],"faces":{"north":{"uv":[0,0,16,16],"texture":"#0"},"south":{"uv":[0,0,16,16],"texture":"#0"}}}]}

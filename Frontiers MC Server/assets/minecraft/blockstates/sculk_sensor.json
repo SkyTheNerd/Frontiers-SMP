@@ -1,1 +1,0 @@
-{"variants":{"sculk_sensor_phase=active,power=0":{"model":"minecraft:block/sculk_sensor_active"},"sculk_sensor_phase=cooldown,power=0":{"model":"minecraft:block/sculk_sensor_inactive"},"sculk_sensor_phase=inactive,power=0":{"model":"minecraft:block/sculk_sensor_inactive"},"sculk_sensor_phase=inactive,power=1":{"model":"custom/misc_blocks/earth/dried_mud_slab"}}}
